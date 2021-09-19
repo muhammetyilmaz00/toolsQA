@@ -21,7 +21,7 @@ Tech Stack: Java, JUnit, Maven, Cucumber
 
 
 **Calliope.pro link**
-https://app.calliope.pro/reports/99789?exc=r6396622&shc=26372699&exr=26372711%2C26372712
+https://app.calliope.pro/reports/99789
 
 **Scenarios Approach**
 * They are chosen for test so that we can face them everytime in the websites.
